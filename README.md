@@ -48,6 +48,6 @@ I'm learning on Udemy. There I always can get back and look for the right manual
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/47tropfen)
+- Frontend Mentor - [@47tropfen](https://www.frontendmentor.io/profile/47tropfen)
 
 
